@@ -40,6 +40,7 @@
 
 <section id="main">
 				 <h2>Welcome</h2>
+				 <p>to our hunting club. Become a member and share your trophys, and storys. Feel free to browse the trophys of other members.</p>
 </section>
 
 <!-- ##########################  Footer  ################## -->
