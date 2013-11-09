@@ -1,0 +1,82 @@
+/******** CSS by Justin McLane *******/
+
+body{ 
+	background-color: #ADD3DB;
+	margin: 0px; 
+	padding-left: 150px;
+        padding-right: 150px;
+	font-size: 12px;
+}
+
+
+/****************************** NAVIGATION******************************/
+
+nav li  {
+	display: inline-block;
+	font-size: 16px;
+	padding: 20px;
+	border-left: 2px solid #DCE1E5;
+	
+}
+nav li a:link	{ 
+	color: #2857F2;
+       	text-decoration: none; 
+}
+	
+nav li a:visited { 
+	color: #2857F2; 	
+	text-decoration: none; 
+	
+}
+
+nav li a:hover{
+	color: #ffffff;
+	background-color: #db6d16;
+	text-decoration: none; 
+}
+
+
+/****************************** HEADER ******************************/
+
+	
+header	{
+        padding: 20x;
+	background-color: #4E8B9C;
+}
+
+header h1 {
+	font-size:30px;
+	padding: 20px;
+}
+
+
+/****************************** CONTENT ******************************/
+
+
+#main	{
+	background-color: #D1DAF8;
+	padding: 20px;
+}
+
+#main h2 {
+	font-size:20px;
+}
+
+
+/****************************** FOOTER ******************************/
+
+
+footer {
+	background-color: #4E8B9C;
+	padding: 20px;
+	}
+
+footer p {
+	font-size: 10pt;
+}
+
+border  {
+	border: 4px solid;
+	border-color:black;
+}
+
