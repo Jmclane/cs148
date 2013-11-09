@@ -32,19 +32,20 @@
 <!-- ##########################   Header   ################## -->
 
 <header>
-				
+				<img src="http://www.uvm.edu/~jmclane/cs148/assignment7.1/headerPhoto.jpg" alt="Home - header photo" width="170" height="128">
+				<h1>New England Big Game Hunting Club</h1>
 </header>
 
 <!-- ##########################   Content   ################## -->
 
 <section id="main">
-				 
+				 <h2>Welcome</h2>
 </section>
 
 <!-- ##########################  Footer  ################## -->
 
 <footer>
-				
+				<p>Designed by Justin McLane</p>
 </footer>
 
 </body>
